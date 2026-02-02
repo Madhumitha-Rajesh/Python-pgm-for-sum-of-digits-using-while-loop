@@ -1,0 +1,1 @@
+# Python-pgm-for-sum-of-digits-using-while-loop
